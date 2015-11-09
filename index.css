@@ -1,7 +1,7 @@
 body{
 	margin: 0px;
 	padding: 0px;
-	
+
 }
 @font-face {
     font-family: chalk;
@@ -59,7 +59,7 @@ body{
 	margin-left: 10%;
 	font-family: me;
 	font-size: 1.5vw;
-	
+
 }
 
 #me img{
@@ -78,6 +78,22 @@ body{
 	-webkit-box-shadow: 0px 0px 115px 2px rgba(0,218,225,0.75);
 	-moz-box-shadow: 0px 0px 115px 2px rgba(0,218,225,0.75);
 	box-shadow: 0px 0px 115px 2px rgba(0,218,225,0.75);
+}
+
+.univ{
+	width: 20%;
+}
+
+#Education ul{
+	margin: 0px;
+	list-style-type: none;
+	padding: 5px;
+	position: relative;
+}
+
+#Education ul li{
+	display: inline;
+	padding: 10px;
 }
 
 #skill{
@@ -113,7 +129,7 @@ body{
 #uta{
 	height: 20vh;
 	margin-left: 3%;
-	
+
 }
 
 #footer{
